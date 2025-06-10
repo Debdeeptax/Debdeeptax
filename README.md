@@ -34,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/nilesh-kumar-519a19249](https://www.linkedin.com/in/parthiv-majumdar-524046238/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/debdeeptabh03/]" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="[https://instagram.com/imnilesh18](https://www.instagram.com/parthivv.v_/)" target="_blank">
