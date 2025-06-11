@@ -44,7 +44,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,aws,bash,c,cpp,codepen,django,docker,firebase,flask,github,html,java,js,mongodb,mysql,opencv,postgres,pycharm,py,pytorch,react,sklearn,tensorflow,vercel,css,vscode,sqlite,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,anacondac,cpp,django,docker,firebase,flask,github,html,java,js,mongodb,mysql,opencv,pycharm,py,pytorch,react,sklearn,tensorflow,css,vscode,powershell" />
   </a>
 </p>
 
